@@ -1,0 +1,6 @@
+inventory_id,product_name,stock_quantity,reorder_level,supplier_id
+1,Laptop,10,5,1
+2,Mouse,50,20,2
+3,Keyboard,15,10,1
+4,Monitor,8,5,3
+5,Printer,4,6,2
