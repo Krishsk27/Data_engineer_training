@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6a0588f8fa873b3318e87371"
+  },
+  "customer_id": 1,
+  "feedback": "Delivery was late due to rain",
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "6a0588f8fa873b3318e87372"
+  },
+  "customer_id": 2,
+  "feedback": "Package arrived safely",
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6a0588f8fa873b3318e87373"
+  },
+  "customer_id": 3,
+  "feedback": "Wrong item delivered",
+  "rating": 2
+}]
